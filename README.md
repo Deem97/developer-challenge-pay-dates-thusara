@@ -3,12 +3,16 @@ This repository contains the solution for fictional company to determine the dat
 
 # Installation
 1. Clone the repo developer-challenge-pay-dates-solution-thusara
+2. Go inside the root directory
+3. Run PaymentDateProcessor.php with a file name
+
 ```
 git clone https://github.com/Deem97/developer-challenge-pay-dates-thusara
 
+cd developer-challenge-pay-dates-solution-thusara
+
+php PaymentDateProcessor.php [desired_output_file_name]
 ```
-2. Go inside the root directory cd developer-challenge-pay-dates-solution-thusara
-3. Run php PaymentDateProcessor.php [desired_output_file_name]
 
 #### Note : 
 * Give a out file name to desired_output_file_name as command line argument.

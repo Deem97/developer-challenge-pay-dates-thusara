@@ -9,7 +9,7 @@ This repository contains the solution for fictional company to determine the dat
 ```
 git clone https://github.com/Deem97/developer-challenge-pay-dates-thusara
 
-cd developer-challenge-pay-dates-solution-thusara
+cd developer-challenge-pay-dates-thusara
 
 php PaymentDateProcessor.php [desired_output_file_name]
 ```

@@ -18,3 +18,4 @@ php PaymentDateProcessor.php [desired_output_file_name]
 * Give a out file name to desired_output_file_name as command line argument.
 * If not a default file name is used to generate the file in the format "payment-date-{current_year}.csv".
 
+## Updated version of this can be found at: https://github.com/Deem97/developer-challenge-pay-dates-thusara-updated-with-composer
